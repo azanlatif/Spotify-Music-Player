@@ -41,7 +41,7 @@ A simple local web server. You can use Python's built-in server, or a Node.js-ba
     ```
 3.  **Start a local server.** For example:
     ```bash
-    sing the VS Code "Live Server" extension.
+    using the VS Code "Live Server" extension.
     ```
 
 4.  **Open your browser** and go to `http://127.0.0.1:5500/` (or the address provided by your local server).
