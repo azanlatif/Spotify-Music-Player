@@ -39,11 +39,10 @@ A simple local web server. You can use Python's built-in server, or a Node.js-ba
     ```bash
     cd spotify-clone
     ```
-3.  **Start a local server.** For example, using Python:
+3.  **Start a local server.** For example:
     ```bash
-    python -m http.server 5500
+    sing the VS Code "Live Server" extension.
     ```
-    Or using the VS Code "Live Server" extension.
 
 4.  **Open your browser** and go to `http://127.0.0.1:5500/` (or the address provided by your local server).
 
